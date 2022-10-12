@@ -1,0 +1,53 @@
+[
+    
+    {
+        "id":0,
+        "name": "iPhone 6s",
+        "desc" : "iPhone 6th Genration",
+        "price" : 9999,
+        "color" : "33505a",
+        "image" : "https://www.bollywoodhungama.com/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-07-at-5.16.34-PM.jpeg"
+    },
+    {
+        "id":1,
+        "name": "iPhone 7",
+        "desc" : "iPhone 7th Genration",
+        "price" : 19999,
+        "color" : "33505a",
+        "image" : "https://www.bollywoodhungama.com/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-07-at-5.16.34-PM.jpeg"
+    },
+    {
+        "id":2,
+        "name": "iPhone Xs",
+        "desc" : "iPhone Xs Genration",
+        "price" : 29999,
+        "color" : "33505a",
+        "image" : "https://www.bollywoodhungama.com/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-07-at-5.16.34-PM.jpeg"
+    },
+    {
+        "id":3,
+        "name": "iPhone 11",
+        "desc" : "iPhone 11th Genration",
+        "price" : 39999,
+        "color" : "33505a",
+        "image" : "https://www.bollywoodhungama.com/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-07-at-5.16.34-PM.jpeg"
+    },
+    {
+        "id":4,
+        "name": "iPhone 12",
+        "desc" : "iPhone 12th Genration",
+        "price" : 49999,
+        "color" : "33505a",
+        "image" : "https://www.bollywoodhungama.com/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-07-at-5.16.34-PM.jpeg"
+    },
+    {
+        "id":5,
+        "name": "iPhone 13",
+        "desc" : "iPhone 13th Genration",
+        "price" : 59999,
+        "color" : "33505a",
+        "image" : "https://www.bollywoodhungama.com/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-07-at-5.16.34-PM.jpeg"
+    }
+   
+
+]
